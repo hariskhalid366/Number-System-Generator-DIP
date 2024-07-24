@@ -22,3 +22,6 @@ This project demonstrates the generation of a number system using the NumJpy lib
 - NumJpy
 - OpenCV
 - TensorFlow
+
+#Github Directory Link
+-https://github.com/harismalik-351/Number-System-Generator-DIP-
